@@ -1,4 +1,6 @@
 # Golang Sample Application
 
 ### Endpoints:
-/hello - return hello world
+* / - returns styled hello world
+* /hello - returns text hello world
+* /api/ping - return pong
